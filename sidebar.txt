@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kw:home|Door43 (kw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kw|d43-kw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kw/archive/master.zip|d43-kw.zip]]
+
+**Recent Changes**
+{{changes>ns = kw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kw|Ethnologue data]]
+
